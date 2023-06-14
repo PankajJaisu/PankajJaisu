@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pankaj Jaiswal</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajjaisu&label=Profile%20views&color=0e75b6&style=flat" alt="pankajjaisu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajjaisu&label=Profile%20views&color=0e75b6&style=flat" alt="pankajjaisu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajjaisu" alt="pankajjaisu" /></a> </p>
-
+ -->
 - 🌱 I’m currently learning **Next JS** , **Data Structure**
 
 - 👨‍💻 All of my projects are available at [pankajporfolio.pythonanywhere.com](pankajporfolio.pythonanywhere.com)
 
-- 📝 I regularly write articles on [cprogramtutorialfrombasics.pythonanywhere.com](cprogramtutorialfrombasics.pythonanywhere.com)
+- 📝 I regularly write articles on [cprogramtutorialfrombasics.blogspot.com](cprogramtutorialfrombasics.blogspot.com)
 
 - 💬 Ask me about **Django,Rasa,Machine Learning**
 
